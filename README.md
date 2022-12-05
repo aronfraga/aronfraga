@@ -19,3 +19,9 @@ I am a full stack developer with great experience working on technologies like N
 - MONGODB
 - GIT
 - SCRUM
+
+## 🌎Deployed Projects
+
+[![](https://img.shields.io/badge/Project-Videogames-blueviolet)](https://pi-videogames-app.vercel.app/)
+
+[![](https://img.shields.io/badge/Project-Fit--Center-yellow)](https://app-gym-frontend.vercel.app/)
