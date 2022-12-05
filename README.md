@@ -9,7 +9,9 @@ Software developer with great experience working on technologies like Node.js, E
 What is my motivation? 🆙
 
    📌 Be part of great teamwork.
+   <br />
    📌 Continuous improvement both personally and professionally. 
+   <br />
    📌 Learn about new technology. 
 
 👋 If you want contact me, this is my contact...
