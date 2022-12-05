@@ -23,6 +23,6 @@ I am a full stack developer with great experience working on technologies like N
 
 ## 🌎Deployed Projects
 
-[![Videogames](https://img.shields.io/badge/Project-Videogames-blueviolet)](https://pi-videogames-app.vercel.app/)
+[![Videogames](https://img.shields.io/badge/Project-Videogames-blueviolet)](https://main.d3stec1pzh5mx.amplifyapp.com/)
 
 [![FitCenter](https://img.shields.io/badge/Project-Fit--Center-yellow)](https://app-gym-frontend.vercel.app/)
