@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 My name is Aron Fraga</h1>
+<h1 align="center">Hi! 👋 My name is Aaron Fraga</h1>
 
 ![Logo](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AronFraga-blue)](https://www.linkedin.com/in/aaron-fraga-4036a8244)
