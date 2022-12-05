@@ -11,7 +11,8 @@ what is my motivation? 🆙
    - Continuous improvement both personally and professionally. 
    - Learn about new technology. 
 
-👋 If you want contact me, this is my contact... 
+👋 If you want contact me, this is my contact...
+
       ✉️ aronfraga@gmail.com
       📞 +5493412557111
 
