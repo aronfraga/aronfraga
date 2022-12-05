@@ -1,4 +1,6 @@
+\begin{center}
 # Hi! 👋 My name is Aron Fraga
+\end{center}
 
 ![Logo](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)
 
@@ -25,3 +27,4 @@ I am a full stack developer with great experience working on technologies like N
 [![](https://img.shields.io/badge/Project-Videogames-blueviolet)](https://pi-videogames-app.vercel.app/)
 
 [![](https://img.shields.io/badge/Project-Fit--Center-yellow)](https://app-gym-frontend.vercel.app/)
+
