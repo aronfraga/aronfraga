@@ -1,8 +1,15 @@
 ![Logo](https://i.postimg.cc/Yq0jPGXC/background.jpg)
-<div>
-<img align="left" src='https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&logoColor=blue&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faaron-fraga-4036a8244%2F' />
-</div>
-</br >
+
+<p align="center">
+<img src='https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&logoColor=blue&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faaron-fraga-4036a8244%2F' />
+</p>
+
+## ⭐ Favorite Tech
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,nodejs,express,cs,dotnet,mysql,mongodb,react,redux,visualstudio,vscode,bash" />
+  </a>
+</p>
 
 ## 🚀 About Me
 Software developer with great experience working on technologies like Node.js, Express.js, Sequelize, SQL, MongoDB, React, Redux and C# .Net Core. I am a person with great motivation to learn, organized and flexible to changes.  I have strong technical, social and teamwork skills. Obtained through my last training academic. I look to be part of a challenging company in which I can grow and expand my knowledge.
