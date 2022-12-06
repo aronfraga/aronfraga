@@ -21,6 +21,7 @@ What is my motivation? 🆙
 
       ✉️ aronfraga@gmail.com
       📞 +5493412557111
+      💼 https://aronfraga.dev
 
 ## 🛠 Techs Skills
 - JAVASCRIPT
