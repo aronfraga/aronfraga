@@ -35,9 +35,13 @@ What is my motivation? 🆙
 - GIT
 - SCRUM
 
-## 🌎Deployed Projects
+## 🌎 Deployed Projects
 
 <img src='https://img.shields.io/twitter/url?label=Videogames%20Project&logo=Polywork&logoColor=red&style=plastic&url=https%3A%2F%2Fmain.d3stec1pzh5mx.amplifyapp.com%2F' />
 <img src='https://img.shields.io/twitter/url?label=Fit-Center%20Project&logo=Polywork&logoColor=blueviolet&style=plastic&url=https%3A%2F%2Fapp-gym-frontend.vercel.app%2F' />
 
+## 📊 My Metrics
 
+<p align="center">
+<img src="https://metrics.lecoq.io/aronfraga?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FBuenos_Aires" />
+</p>
