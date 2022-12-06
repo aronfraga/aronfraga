@@ -1,7 +1,7 @@
 ![Logo](https://i.postimg.cc/Yq0jPGXC/background.jpg)
 <div>
 <img align="left" src='https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedin&logoColor=blue&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faaron-fraga-4036a8244%2F' />
-<img align="right" src='https://img.shields.io/github/stars/aronfraga?color=orange&label=Github%20View&logo=git' />
+<img align="right" src='https://img.shields.io/github/stars/aronfraga?&style=plastic&color=orange&label=Github%20View&logo=git' />
 </div>
 </br >
 
