@@ -6,7 +6,7 @@
 
 ## ⭐ Favorite Tech
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,js,nodejs,express,cs,dotnet,mysql,mongodb,react,redux,visualstudio,vscode,bash" />
+    <img src="https://skillicons.dev/icons?i=git,js,ts,nodejs,express,cs,dotnet,mysql,mongodb,react,redux,visualstudio,vscode,bash" />
 </p>
 
 ## 🚀 About Me
