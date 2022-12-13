@@ -40,8 +40,8 @@ What is my motivation? 🆙
 
 ## 🌎 Deployed Projects
 
- - https://app-gym-frontend.vercel.app/
- - https://main.d3stec1pzh5mx.amplifyapp.com/
+ - GimFitnes App - https://app-gym-frontend.vercel.app/
+ - Videogames App - https://main.d3stec1pzh5mx.amplifyapp.com/
 
 ## 📊 My Metrics
 
