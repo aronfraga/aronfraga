@@ -39,10 +39,10 @@ What is my motivation? 🆙
 - SCRUM
 
 ## 🌎 Deployed Projects
-
+<a link='https://app-gym-frontend.vercel.app/'>
 <img src='https://img.shields.io/twitter/url?label=Videogames%20Project&logo=Polywork&logoColor=red&style=plastic&url=https%3A%2F%2Fmain.d3stec1pzh5mx.amplifyapp.com%2F' />
 <img src='https://img.shields.io/twitter/url?label=Fit-Center%20Project&logo=Polywork&logoColor=blueviolet&style=plastic&url=https%3A%2F%2Fapp-gym-frontend.vercel.app%2F' />
-
+</a>
 ## 📊 My Metrics
 
 <p align="center">
