@@ -32,7 +32,8 @@ What is my motivation? 🆙
 - REACT
 - REDUX
 - REACT NATIVE
-- C# .NET CORE
+- C# .NET CORE / ASP.NET
+- ENTITY FRAMEWORK & LINQ
 - SQL - { SQL SERVER, ORACLE 19C, MySql, PostgreSQL }
 - MONGODB
 - GIT
