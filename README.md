@@ -24,6 +24,9 @@ What is my motivation? 🆙
       💼 https://aronfraga.dev
 
 ## 🛠 Techs Skills
+
+- C# .NET CORE / ASP.NET
+- ENTITY FRAMEWORK & LINQ
 - JAVASCRIPT
 - TYPESCRIPT
 - NODEJS
@@ -32,8 +35,6 @@ What is my motivation? 🆙
 - REACT
 - REDUX
 - REACT NATIVE
-- C# .NET CORE / ASP.NET
-- ENTITY FRAMEWORK & LINQ
 - SQL - { SQL SERVER, ORACLE 19C, MySql, PostgreSQL }
 - MONGODB
 - GIT
@@ -41,8 +42,13 @@ What is my motivation? 🆙
 
 ## 🌎 Deployed Projects
 
+ - Shopping Cart Api - http://aronfraga-001-site3.htempurl.com/swagger/index.html
+ - Movies Api - http://aronfraga-001-site1.htempurl.com/swagger/index.html
+ - Parking Api - Working on
+ - Employee Api - http://13.54.114.167/employee/welcome 
  - GymFitnes App - https://app-gym-frontend.vercel.app/
  - Videogames App - https://main.d3stec1pzh5mx.amplifyapp.com/
+ - BookStore App - http://aronfraga-001-site4.htempurl.com/
 
 ## 📊 My Metrics
 
