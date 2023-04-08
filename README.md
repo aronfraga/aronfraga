@@ -10,7 +10,7 @@
 </p>
 
 ## 🚀 About Me
-Software developer with great experience working on technologies like C#, .Net Core, Entity Framework, LinQ, Design Patterns, Node.js, Express.js, Sequelize, SQL, MongoDB, React, Redux. I am a person with great motivation to learn, organized and flexible to changes. I have strong technical, social and teamwork skills.
+Software developer with great experience working on technologies like C#, .Net Core, Entity Framework, LinQ, Design Patterns, Azure, Node.js, Express.js, Sequelize, SQL, MongoDB, React, Redux. I am a person with great motivation to learn, organized and flexible to changes. I have strong technical, social and teamwork skills.
 
 What is my motivation? 🆙
 - Be part of great teamwork.
