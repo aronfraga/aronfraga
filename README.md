@@ -6,11 +6,11 @@
 
 ## ⭐ Favorite Tech
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,nodejs,express,cs,dotnet,mysql,mongodb,react,redux,visualstudio,vscode,bash" />
+    <img src="https://skillicons.dev/icons?i=git,cs,dotnet,azure,mysql,js,ts,nodejs,express,mongodb,react,redux,visualstudio,vscode,bash" />
 </p>
 
 ## 🚀 About Me
-Software developer with great experience working on technologies like Node.js, Express.js, Sequelize, SQL, MongoDB, React, Redux and C# .Net Core. I am a person with great motivation to learn, organized and flexible to changes.  I have strong technical, social and teamwork skills. Obtained through my last training academic. I look to be part of a challenging company in which I can grow and expand my knowledge.
+Software developer with great experience working on technologies like C#, .Net Core, Entity Framework, LinQ, Design Patterns, Node.js, Express.js, Sequelize, SQL, MongoDB, React, Redux. I am a person with great motivation to learn, organized and flexible to changes. I have strong technical, social and teamwork skills.
 
 What is my motivation? 🆙
 - Be part of great teamwork.
@@ -27,6 +27,7 @@ What is my motivation? 🆙
 
 - C# .NET CORE / ASP.NET
 - ENTITY FRAMEWORK & LINQ
+- AZURE 
 - JAVASCRIPT
 - TYPESCRIPT
 - NODEJS
