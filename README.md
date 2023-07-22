@@ -11,7 +11,7 @@ Software developer with great experience working on technologies like C#, .NET F
 
 ## 🛠 Techs Skills
 
-- C# .NET CORE / ASP.NET
+- C# .NET CORE / .NET FRAMEWORK / ASP.NET / Blazor
 - ENTITY FRAMEWORK & LINQ
 - AZURE 
 - DESIGN PATTERN
