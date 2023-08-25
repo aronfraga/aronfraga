@@ -7,7 +7,7 @@ I consider myself a person with great motivation, organized and flexible to chan
    
 ## ⭐ Favorite Tech
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,cs,dotnet,azure,mysql,js,ts,nodejs,express,mongodb,react,redux,visualstudio,vscode,bash" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,mysql,js,ts,nodejs,express,mongodb,react,redux,visualstudio,vscode,git,bash" />
 </p>
 
 ## 🛠 Techs Skills
