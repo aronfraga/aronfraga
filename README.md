@@ -7,7 +7,6 @@ Hello everyone my name is Aron Fraga, I am a software developer specialize in .N
 I consider myself a person with great motivation, organized and flexible to changes. I believe in live learning and learning by doing on teamwork.
 
  - 🌎 https://www.linkedin.com/in/aaron-fraga-4036a8244/
- - 💼 https://aronfraga.dev
 
 ## 🛠 Techs Skills
 
