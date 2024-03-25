@@ -6,8 +6,6 @@
 Hello everyone my name is Aron Fraga, I am a software developer specialize in .NET on cloud with Azure, love this technologies. 
 I consider myself a person with great motivation, organized and flexible to changes. I believe in live learning and learning by doing on teamwork.
 
- - 🌎 https://www.linkedin.com/in/aaron-fraga-4036a8244/
-
 ## 🛠 Techs Skills
 
 - C# .NET CORE / .NET FRAMEWORK / ASP.NET / Blazor
