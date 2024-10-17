@@ -3,8 +3,8 @@
 </p>
 
 ## 🚀 About Me
-Hello everyone my name is Aron Fraga, I am a software developer specialize in .NET on cloud with Azure, love this technologies. 
-I consider myself a person with great motivation, organized and flexible to changes. I believe in live learning and learning by doing on teamwork.
+Hello everyone, my name is Aron Fraga. I am a software developer specializing in C# .NET and cloud technologies with Azure, which I am passionate about. I consider myself highly motivated, organized, and adaptable to change. 
+I believe in continuous learning and learning by doing, especially through teamwork.
 
 ## 🛠 Techs Skills
 
